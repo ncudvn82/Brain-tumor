@@ -1,0 +1,545 @@
+{
+    "color1": "",
+    "color2": "",
+    "color3": "",
+    "color4": "",
+    "color5": "",
+    "siteTitle": "Brain tumor",
+    "hero": {
+        "title": "腦癌知識+",
+        "backgroundImage": "./images/1709325806317.png"
+    },
+    "introduction": {
+        "content": "腦腦腦",
+        "image": "./images/1709325806317.png"
+    },
+    "documents": {
+        "title": "Documents",
+        "items": [
+            {
+                "titles": "brain",
+                "author": "Cancerfree",
+                "no": 262,
+                "date": "2024/08/20",
+                "tags": [
+                    "文章"
+                ]
+            },
+            {
+                "titles": "VITRAKVI 25mg 膠囊介紹",
+                "author": "Cancerfree",
+                "no": 243,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "VITRAKVI 20mg/ml 口服溶液介紹",
+                "author": "Cancerfree",
+                "no": 242,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "VITRAKVI 100mg 膠囊介紹",
+                "author": "Cancerfree",
+                "no": 241,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Vinblastine Teva 1mg/ml 介紹",
+                "author": "Cancerfree",
+                "no": 233,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "VINBLASTINE SULPHATE FOR INJECTION DBL介紹",
+                "author": "Cancerfree",
+                "no": 232,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "VINBLASTINE SULFATE INJECTION 1MG or ML DB介紹",
+                "author": "Cancerfree",
+                "no": 231,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "VINBLASTINE SULFATE INJECTION 1MG or 1ML DBL介紹",
+                "author": "Cancerfree",
+                "no": 230,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "VELBE INJECTION介紹",
+                "author": "Cancerfree",
+                "no": 226,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "TEMOZ 100介紹",
+                "author": "Cancerfree",
+                "no": 219,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Temodal Powder for solution for infusion介紹",
+                "author": "Cancerfree",
+                "no": 218,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "TEMODAL膠囊5毫克介紹",
+                "author": "Cancerfree",
+                "no": 217,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "TEMODAL CAPSULES 250MG介紹",
+                "author": "Cancerfree",
+                "no": 216,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "TEMODAL膠囊20毫克介紹",
+                "author": "Cancerfree",
+                "no": 215,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Temodal膠囊180毫克介紹",
+                "author": "Cancerfree",
+                "no": 214,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Temodal膠囊140毫克介紹",
+                "author": "Cancerfree",
+                "no": 213,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "TEMODAL CAPSULES 100MG介紹",
+                "author": "Cancerfree",
+                "no": 212,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Temazo膠囊5毫克介紹",
+                "author": "Cancerfree",
+                "no": 211,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Temazo膠囊250毫克介紹",
+                "author": "Cancerfree",
+                "no": 210,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Temazo膠囊20毫克介紹",
+                "author": "Cancerfree",
+                "no": 209,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Temazo膠囊180毫克介紹",
+                "author": "Cancerfree",
+                "no": 208,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Temazo膠囊140mg介紹",
+                "author": "Cancerfree",
+                "no": 207,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Temazo膠囊100毫克介紹",
+                "author": "Cancerfree",
+                "no": 206,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Tamos膠囊250毫克介紹",
+                "author": "Cancerfree",
+                "no": 199,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Tamos膠囊20毫克介紹",
+                "author": "Cancerfree",
+                "no": 198,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Tamos膠囊180毫克介紹",
+                "author": "Cancerfree",
+                "no": 197,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Tamos膠囊100毫克介紹",
+                "author": "Cancerfree",
+                "no": 196,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "PARAPLATIN靜脈注射用溶液介紹",
+                "author": "Cancerfree",
+                "no": 182,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "PARAPLATIN IV INJECTION介紹",
+                "author": "Cancerfree",
+                "no": 181,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "PARAPLATIN注射劑介紹",
+                "author": "Cancerfree",
+                "no": 180,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Mekinist薄膜衣片2毫克介紹",
+                "author": "Cancerfree",
+                "no": 175,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Mekinist薄膜衣片0.5毫克詳細介紹",
+                "author": "Cancerfree",
+                "no": 174,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Kemocarb注射液介紹",
+                "author": "Cancerfree",
+                "no": 169,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Farydak 20毫克膠囊詳細介紹",
+                "author": "Cancerfree",
+                "no": 144,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Farydak 15毫克膠囊介紹",
+                "author": "Cancerfree",
+                "no": 143,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Farydak 10毫克膠囊介紹",
+                "author": "Cancerfree",
+                "no": 142,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Caxatin靜脈輸液注射液10mg/ml介紹",
+                "author": "Cancerfree",
+                "no": 87,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "CARBOPLATIN SOLUTION 10MG/ML介紹",
+                "author": "Cancerfree",
+                "no": 86,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Carboplatin Mylan介紹",
+                "author": "Cancerfree",
+                "no": 85,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "CARBOplatin IV Injection 10mg/ml介紹",
+                "author": "Cancerfree",
+                "no": 84,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Carboplatin IV Injection 10mg/ml Sinphar介紹",
+                "author": "Cancerfree",
+                "no": 83,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "CARBOPLATIN INJECTION DBL介紹",
+                "author": "Cancerfree",
+                "no": 82,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "CARBOPLATIN INJECTION 10MG/ML介紹",
+                "author": "Cancerfree",
+                "no": 81,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "CARBOPLATIN FOR INJECTION介紹",
+                "author": "Cancerfree",
+                "no": 80,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Carboplatin Ebewe 10mg/ml注射液濃度溶液介紹",
+                "author": "Cancerfree",
+                "no": 79,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "產品"
+                ]
+            },
+            {
+                "titles": "Vinblastine sulfate介紹",
+                "author": "Cancerfree",
+                "no": 72,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "藥品"
+                ]
+            },
+            {
+                "titles": "Trametinib介紹及如何使用Trametinib治療腦癌",
+                "author": "Cancerfree",
+                "no": 71,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "藥品"
+                ]
+            },
+            {
+                "titles": "Temozolomide介紹",
+                "author": "Cancerfree",
+                "no": 70,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "藥品"
+                ]
+            },
+            {
+                "titles": "Panobinostat介紹及如何治療腦癌",
+                "author": "Cancerfree",
+                "no": 68,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "藥品"
+                ]
+            },
+            {
+                "titles": "Larotrectinib (LOXO-101) 介紹",
+                "author": "Cancerfree",
+                "no": 67,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "藥品"
+                ]
+            },
+            {
+                "titles": "Carboplatin介紹及如何用於治療腦癌",
+                "author": "Cancerfree",
+                "no": 58,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "藥品"
+                ]
+            },
+            {
+                "titles": "腦癌：一種致命的神秘疾病",
+                "author": "Cancerfree",
+                "no": 55,
+                "date": "2024/08/07",
+                "tags": [
+                    "文章",
+                    "癌症介紹"
+                ]
+            }
+        ]
+    },
+    "ad": {
+        "image": "./images/2140380-20210207163340317-474773952.png",
+        "content": "",
+        "link": "https://claude.ai/new"
+    }
+}
