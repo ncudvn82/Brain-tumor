@@ -7,35 +7,15 @@
     "siteTitle": "Brain tumor",
     "hero": {
         "title": "腦癌知識+",
-        "backgroundImage": "./images/1709325806317.png"
+        "backgroundImage": ""
     },
     "introduction": {
-        "content": "腦腦腦",
-        "image": "./images/1709325806317.png"
+        "content": "這是一個關於腦癌的網站。",
+        "image": ""
     },
     "documents": {
         "title": "Documents",
         "items": [
-            {
-                "titles": "dfsfsdfs",
-                "author": "Cancerfree",
-                "no": 269,
-                "date": "2024/08/22",
-                "tags": [
-                    "文章",
-                    "藥品",
-                    "INJECTION"
-                ]
-            },
-            {
-                "titles": "Hello",
-                "author": "Cancerfree",
-                "no": 268,
-                "date": "2024/08/22",
-                "tags": [
-                    "文章"
-                ]
-            },
             {
                 "titles": "VITRAKVI 25mg 膠囊介紹",
                 "author": "Cancerfree",
@@ -549,8 +529,8 @@
         ]
     },
     "ad": {
-        "image": "./images/2140380-20210207163340317-474773952.png",
+        "image": "./images/99.jpg",
         "content": "",
-        "link": "https://claude.ai/new"
+        "link": "https://www.cancerfree.io/zh-tw/index"
     }
 }
