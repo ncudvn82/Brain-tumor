@@ -17,6 +17,34 @@
         "title": "Documents",
         "items": [
             {
+                "titles": "深入了解化療藥物副作用及其對癌症的影響",
+                "author": "Cancerfree",
+                "no": 1023,
+                "date": "2024/10/31 00:15:12",
+                "tags": [
+                    "副作用",
+                    "藥物副作用",
+                    "化療",
+                    "化療藥物",
+                    "癌症治療",
+                    "癌症",
+                    "病患照護"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
                 "titles": "VITRAKVI 25mg 膠囊介紹",
                 "author": "Cancerfree",
                 "no": 243,
